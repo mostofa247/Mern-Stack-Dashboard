@@ -1,1 +1,1 @@
-redux code add
+Client side component add
